@@ -1,0 +1,22 @@
+{"employees":[
+{
+"id":1,
+"name":"Ummed",
+"address":"colaba",
+"phone": 9757422365
+},
+
+{
+"id":2,
+"name":"USB",
+"address":"Mumbai colaba",
+"phone": 9574855128
+},
+{
+"id":3,
+"name":"Digu",
+"address":"virar",
+"phone": 9757474365
+}
+
+]}
